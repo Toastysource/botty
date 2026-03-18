@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Otari_300.aternos.me:31931",
+    "ip": "Otari_300.aternos.me",
     "port": 31931,
     "version": "",
     "try-creative": false
